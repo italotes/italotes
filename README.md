@@ -1,5 +1,5 @@
-## Olá! Meu nome é Ítalo! 👋
+#Hi! My name is Ítalo! 👋
 
-Sou iniciante no mundo da programação, sou formado em Administração de Empresas, tenho uma carreira de mais de 10 anos em Customer Service e atualmente transicionando para a carreira de Tecnologia.
+I'm a beginner in the world of programming, I have a degree in Business Administration, over 10 years of experience in Customer Service, and I'm currently transitioning to a career in Technology.
 
-Nasci em Fortaleza, morei muitos anos em São Paulo e atualmente moro em Niagara Falls na provincia de Ontário no Canadá. 
+I'm Brazilian, born in Fortaleza, lived for many years in São Paulo, and currently reside in Niagara Falls, Ontario, Canada.
